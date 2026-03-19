@@ -12,7 +12,7 @@ function Footer() {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>Enrique Uribe</h3>
+            <h3>Marcos Alvarez</h3>
             <p>Full Stack Developer especializado en aplicaciones web modernas y arquitecturas escalables.</p>
             <div className="footer-social">
               <a href="https://github.com/enri892" className="social-link" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
@@ -38,15 +38,15 @@ function Footer() {
             <div className="footer-contact">
               <p>
                 <FaEnvelope className="contact-icon" />
-                enriqueurib0505@gmail.com
+                marcos.alv0503@gmail.com
               </p>
               <p>
                 <FaPhone className="contact-icon" />
-                +34 624214579
+                +34 644877728
               </p>
               <p>
                 <FaMapMarkerAlt className="contact-icon" />
-                Arganda del Rey, Madrid, España
+                Rivas Vaciamadrid, Madrid, España
               </p>
             </div>
           </div>
@@ -54,10 +54,10 @@ function Footer() {
         
         <div className="footer-bottom">
           <div className="footer-copyright">
-            <p>&copy; {currentYear} Enrique Uribe. Todos los derechos reservados.</p>
+            <p>&copy; {currentYear} Marcos Alvarez. Todos los derechos reservados.</p>
           </div>
           <div className="footer-credits">
-            <p>Hecho con ❤️ y React.js</p>
+            <p>Hecho con React.js</p>
           </div>
         </div>
       </div>

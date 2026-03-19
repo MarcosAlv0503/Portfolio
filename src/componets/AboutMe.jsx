@@ -91,7 +91,7 @@ function AboutMe() {
                 </div>
                 <div className="code-content">
                   <pre><code>{`const developer = {
-  name: "Enrique Uribe",
+  name: "Marcos Alvarez",
   role: "Full Stack Developer",
   passion: "Código Limpio & Arquitectura",
   current: "Construyendo aplicaciones web increíbles"

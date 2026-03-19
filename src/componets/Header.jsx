@@ -9,7 +9,7 @@ function Header() {
     <header className="header">
       <nav className="navbar navbar-expand-lg navbar-dark" ref={navRef}>
         <div className="container">
-          <h1 className="navbar-brand logo mb-0">&lt;/EnriqueUrib3&gt;</h1>
+          <h1 className="navbar-brand logo mb-0">&lt;/MarcosAlv0503&gt;</h1>
           <button 
             className="navbar-toggler" 
             type="button" 

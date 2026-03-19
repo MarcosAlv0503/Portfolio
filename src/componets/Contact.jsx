@@ -32,21 +32,21 @@ function Contact() {
                 <FaEnvelope className="contact-icon" />
                 <div>
                   <h4>Email</h4>
-                  <p>enriqueurib0505@gmail.com</p>
+                  <p>marcos.alv0503@gmail.com</p>
                 </div>
               </div>
               <div className="contact-item">
                 <FaPhone className="contact-icon" />
                 <div>
                   <h4>Teléfono</h4>
-                  <p>+34 624214579</p>
+                  <p>+34 644877728</p>
                 </div>
               </div>
               <div className="contact-item">
                 <FaMapMarkerAlt className="contact-icon" />
                 <div>
                   <h4>Ubicación</h4>
-                  <p>Arganda del Rey, Madrid, España</p>
+                  <p>Rivas Vaciamadrid, Madrid, España</p>
                 </div>
               </div>
             </div>
